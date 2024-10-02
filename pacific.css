@@ -1,9 +1,4 @@
-:not(img) {
-	width: 80%;
-	min-width: 600px;
-	margin: 0 auto;
-}
-header body {
+#wrapper {
 	width: 80%;
 	min-width: 600px;
 	margin: 0 auto;
@@ -76,6 +71,9 @@ img {
 	margin-left: 10px;
 	float: left;
 }
-p + ul {
-	margin: 10px;
+
+nav {
+	width: 200px;
+	height: 380px;
+	float:left
 }
