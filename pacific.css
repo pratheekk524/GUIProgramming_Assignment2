@@ -1,5 +1,6 @@
 #wrapper {
 	width: 80%;
+	height: 500px;
 	min-width: 600px;
 	margin: 0 auto;
 }
@@ -49,6 +50,9 @@ h2 {
 #content {
 	list-style-image: url('marker.gif');
 	background-color: white;
+	width: 85%;
+	height: 90%;
+	float: left;
 }
 #contact {
 	font-size: 90%;
@@ -59,6 +63,9 @@ dt {
 footer {
 	font-family: Georgia, "Times New Roman", serif;
 	background-color: white;
+	width: 85%;
+	height: 10%;
+	float: right;
 }
 .resort {
     color: rgb(0, 110, 255);
@@ -73,7 +80,7 @@ img {
 }
 
 nav {
-	width: 200px;
-	height: 380px;
+	width: 15%;
+	height: 100%;
 	float:left
 }
